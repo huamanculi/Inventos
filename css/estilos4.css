@@ -1,9 +1,9 @@
 footer{
-    background: grey;
+    background: #414141;
     padding: 60px 0 30px 0;
     margin: auto;
     overflow: hidden;
-    color: white;
+    color: azure;
     text-align: center;
 }
 .contenedor-footer{
